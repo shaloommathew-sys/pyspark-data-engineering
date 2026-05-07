@@ -45,4 +45,4 @@ python bronze_layer/raw_ingestion.py
 ## Author
 
 Shaloo Merin Mathew — Senior Data Engineer  
-[LinkedIn](https://linkedin.com/in/shaloo-mathew)
+(https://www.linkedin.com/in/shaloo-mathew-b50878b8/)
