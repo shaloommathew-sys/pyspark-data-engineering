@@ -1,21 +1,6 @@
 # pyspark-data-engineering
 PySpark transformation patterns: Bronze→Silver→Gold layer processing, data quality validation, SCD implementations, schema evolution handling
 
-pyspark-data-engineering/
-├── README.md
-├── bronze_layer/
-│   └── raw_ingestion.py
-├── silver_layer/
-│   ├── data_cleaning.py
-│   └── scd_type2.py
-├── gold_layer/
-│   └── aggregations.py
-├── data_quality/
-│   └── quality_checks.py
-└── utils/
-    └── spark_session.py
-
-
 # PySpark Data Engineering Patterns
 
 A collection of production-ready PySpark patterns for building Medallion Lakehouse 
